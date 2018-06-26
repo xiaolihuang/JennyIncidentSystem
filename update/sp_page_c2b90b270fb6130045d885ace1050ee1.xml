@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>widget_comm_demo_page</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description>A sample portal to demo inter-widget communication</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-26 02:58:28</sys_created_on>
+        <sys_id>c2b90b270fb6130045d885ace1050ee1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>widget_comm_demo_page</sys_name>
+        <sys_package display_value="JennyIncidentSystem" source="x_213497_jennyinci">6228edeb0fb2130045d885ace1050e44</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JennyIncidentSystem">6228edeb0fb2130045d885ace1050e44</sys_scope>
+        <sys_update_name>sp_page_c2b90b270fb6130045d885ace1050ee1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-26 02:58:28</sys_updated_on>
+        <title>windget Comm Demo Page</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=c2b90b270fb6130045d885ace1050ee1"/>
+</record_update>
